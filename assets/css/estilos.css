@@ -133,3 +133,8 @@ footer {
 h1{
     font-family: c
 }
+
+footer a{
+    color: white;
+    text-decoration: none;
+}
