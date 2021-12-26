@@ -112,6 +112,10 @@ header .carousel-item p{
     font-size: 0.8rem;
 }
 
+#cardSection .card-body{
+    background-color: #8b8c89;
+}
+
 /* CONTACTO */
 
 #contacto h2 {

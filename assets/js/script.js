@@ -25,5 +25,56 @@ $("a").on('click', function(event) {
   };
 });
 
+
+$("#cardUno").hover(function(){
+  $(this).css({    
+    "background-color": "#8b8c89"
+  });
+});
+
+$("#cardUno").on("click", function(){
+  $(this).css({    
+    "background-color": "#6096ba"
+  });
+});
+
+$("#cardDos").hover(function(){
+  $(this).css({    
+    "background-color": "#8b8c89"
+  });
+});
+
+$("#cardDos").on("click", function(){
+  $(this).css({    
+    "background-color": "#6096ba"
+  });
+});
+
+$("#carTres").hover(function(){
+  $(this).css({    
+    "background-color": "#8b8c89"
+  });
+});
+
+$("#cardTres").on("click", function(){
+  $(this).css({    
+    "background-color": "#6096ba"
+  });
+});
+
+$("#cardCuatro").hover(function(){
+  $(this).css({    
+    "background-color": "#8b8c89"
+  });
+});
+
+$("#cardCuatro").on("click", function(){
+  $(this).css({    
+    "background-color": "#6096ba"
+  });
+});
+
+
+
 });
 
