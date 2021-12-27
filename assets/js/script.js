@@ -50,7 +50,7 @@ $("#cardDos").on("click", function(){
   });
 });
 
-$("#carTres").hover(function(){
+$("#cardTres").hover(function(){
   $(this).css({    
     "background-color": "#8b8c89"
   });
@@ -61,6 +61,7 @@ $("#cardTres").on("click", function(){
     "background-color": "#6096ba"
   });
 });
+
 
 $("#cardCuatro").hover(function(){
   $(this).css({    
